@@ -5,11 +5,11 @@ public:
             ans.push_back(ds);
             return;
         }
-      //  if(n < 0 || ds.size() > k){
-      //      return;
-       // }
+        if(n < 0 || ds.size() > k){
+            return;
+        }
         for(int i = idx; i <= 9; i++){
-       //     if(i > n) break;
+            if(i > n) break;
             ds.push_back(i);
             fn(i+1,k,n-i,ans,ds);
             ds.pop_back();
