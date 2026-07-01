@@ -14,18 +14,13 @@ public:
     int fn(TreeNode* root){
         if(root == NULL) return 0;
         int l = fn(root -> left);
+        if(l == -1) return -1;
         int r = fn(root -> right);
-        return 1+max(l,r);
+        if(r ==-1) return -1;
+        if(abs(l -r) > 1) return -1;
+        return 1 + max(l,r);
     }
     bool isBalanced(TreeNode* root) {
-        if(root == NULL) return true;
-        int lh = fn(root -> left);
-        int rh = fn(root -> right);
-        if(abs(lh-rh) > 1) return false;
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-        if(!left || !right)
-        return false;
-        return true;
+        return fn(root) != -1;
     }
 };
