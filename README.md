@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
