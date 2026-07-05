@@ -15,11 +15,11 @@ public:
         vector<vector<int>> ans;
         if(root == NULL) return ans;
         queue<TreeNode*> q;
-        int cnt = 1;
+        bool cnt = true;
         q.push(root);
         while(!q.empty()){
-         vector<int> level; 
          int n = q.size() ;
+         vector<int> level(n); 
          for(int i = 0;i<=n-1;i++){
             TreeNode* node = q.front();
             q.pop();
@@ -28,14 +28,23 @@ public:
             }
             if(node->right  != NULL) {
                 q.push(node->right);
-            }            
-            level.push_back(node->val);
-         }
-         cnt++;
-         if(cnt % 2 != 0){
-            reverse(level.begin(),level.end());
+            }
+            int index;
+            if(cnt == true) {
+                index = i;
+            }          
+            else{
+                index = n-1 -i;
+            }
+            level[index] = node->val;
          }
          ans.push_back(level);
+         if(cnt == true){
+            cnt = false;
+         }
+         else{
+            cnt = true;
+         }
         }
         return ans;
     }
