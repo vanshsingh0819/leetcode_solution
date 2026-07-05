@@ -29,14 +29,12 @@ public:
             if(node->right  != NULL) {
                 q.push(node->right);
             }
-            int index;
             if(cnt == true) {
-                index = i;
+                level[i] = node->val;
             }          
             else{
-                index = n-1 -i;
-            }
-            level[index] = node->val;
+                level[n-1 -i] = node->val;
+            }       
          }
          ans.push_back(level);
          if(cnt == true){
