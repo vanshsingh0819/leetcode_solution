@@ -10,25 +10,15 @@
  * };
  */
 class Solution {
-public:   
-    TreeNode * prev = NULL;
-    bool fn(TreeNode * root){
-        
+public:
+    bool fn(TreeNode* root,long minVal,long maxVal){
         if(root == NULL) return true;
-        if(fn(root->left) == false){
-            return false;
-        }
-        if(prev != NULL && prev->val >= root->val){
-            return false;
-        }
-        prev = root;
-        if(fn(root->right) == false){
-            return false;
-        }
-        return true;
+        if(root->val <= minVal || root->val >= maxVal) return false;
+        bool l = fn(root->left,minVal,root->val);
+        bool r = fn(root->right,root->val,maxVal);
+        return l && r;
     }
     bool isValidBST(TreeNode* root) {
-        if (root == NULL) return true;
-        return fn(root);
+        return fn(root,LONG_MIN,LONG_MAX);
     }
 };
