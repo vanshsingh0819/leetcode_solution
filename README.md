@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
