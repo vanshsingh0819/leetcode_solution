@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
