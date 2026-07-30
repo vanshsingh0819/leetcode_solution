@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
