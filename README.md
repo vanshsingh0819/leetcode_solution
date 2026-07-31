@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0278-first-bad-version) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
