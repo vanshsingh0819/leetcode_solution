@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+| [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
