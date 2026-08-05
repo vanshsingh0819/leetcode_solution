@@ -6,7 +6,7 @@ public:
             ans.push_back(ds);
             return;
         }
-        if(n<0) return;
+      //  if(n < 0) return;
         for(int i=idx;i<=9;i++){
             ds.push_back(i);
             n-=i;
