@@ -1,20 +1,20 @@
 class Solution {
 public:
-void fn(int idx,vector<int>& nums,vector<vector<int>> &ans,vector<int>& ds){
-        int n = nums.size();        
-        ans.push_back(ds);        
-        for(int i =idx;i<=n-1;i++){            
-            ds.push_back(nums[i]);
-            fn(i+1, nums,ans,ds);
-            ds.pop_back();
+    void fn(int i,vector<int>& nums,vector<int>& ds,vector<vector<int>> &ans){
+        int n = nums.size();
+        if(i == n){
+            ans.push_back(ds);
+            return;
         }
-
+        ds.push_back(nums[i]);
+        fn(i+1,nums,ds,ans);
+        ds.pop_back();
+        fn(i+1,nums,ds,ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        //sort(nums.begin(), nums.end());
-        vector<vector<int>> ans;
         vector<int> ds;
-        fn(0, nums,ans,ds);
+        vector<vector<int>> ans;
+        fn(0,nums,ds,ans);
         return ans;
     }
 };
