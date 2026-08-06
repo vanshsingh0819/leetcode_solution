@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
