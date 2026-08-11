@@ -11,11 +11,11 @@ public:
                 break;
             }
         }
-        unordered_map<int,int> mpp;
+        unordered_set<int> s;
         for(int i =0;i<=n-1;i++){
-            mpp[nums[i]] == i;
+            s.insert(nums[i]);
         }
-        while(mpp.find(prefixSum) != mpp.end()){
+        while(s.find(prefixSum) != s.end()){
             prefixSum++;
         }
     return prefixSum;
