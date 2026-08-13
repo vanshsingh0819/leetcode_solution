@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0198-house-robber) |
 ## Binary Search Tree
 |  |
 | ------- |
