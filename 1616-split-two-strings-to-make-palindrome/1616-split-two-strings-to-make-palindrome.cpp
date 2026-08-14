@@ -17,8 +17,8 @@ public:
         int i = 0;
         int j = n-1;
         while(i<j && a[i]==b[j]){
-            i=i+1;
-            j=j-1;
+           i++; //i=i+1;
+           j--; //j=j-1;
         }
         if(i >= j)
             return true;
