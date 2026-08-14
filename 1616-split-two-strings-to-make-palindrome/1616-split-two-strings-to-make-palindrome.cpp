@@ -16,9 +16,14 @@ public:
         int n = a.size();
         int i = 0;
         int j = n-1;
-        while(i<j && a[i]==b[j]){
-           i++; //i=i+1;
-           j--; //j=j-1;
+        while(i<j ){
+            if(a[i]==b[j]){
+           i++;
+           j--;
+        }
+        else{
+            break;
+        }
         }
         if(i >= j)
             return true;
