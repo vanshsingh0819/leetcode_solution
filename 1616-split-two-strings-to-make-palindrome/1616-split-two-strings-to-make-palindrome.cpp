@@ -25,8 +25,9 @@ public:
             break;
         }
         }
-        if(i >= j)
+        if(i >= j){
             return true;
+        }
         return solve(a,i,j)||solve(b,i,j);   
     }
     bool checkPalindromeFormation(string a, string b) {
