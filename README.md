@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
