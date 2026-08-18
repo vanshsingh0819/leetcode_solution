@@ -259,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
