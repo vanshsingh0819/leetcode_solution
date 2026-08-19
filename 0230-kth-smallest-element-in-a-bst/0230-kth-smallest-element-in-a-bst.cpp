@@ -10,18 +10,18 @@
  * };
  */
 class Solution {
-public:
-int cnt =0;
-int ans =0;
+public: 
+int cnt = 0;
+int ans = 0;
     void fn(TreeNode* root, int k){
-        if(root == NULL) return;
-        fn(root->left,k);
-        cnt++;
-        if(cnt == k){
-            ans = root->val;
-            return;
-        }
-        fn(root->right,k);
+    if(root == NULL) return ;
+    fn(root->left,k);
+    cnt++;
+    if(cnt == k){
+        ans =  root->val;
+        return;
+    }
+    fn(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
         fn(root,k);
