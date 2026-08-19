@@ -12,45 +12,40 @@
 class Solution {
 public:
     TreeNode* fn(TreeNode* root){
-        if(root->left == NULL){
-            return root->right;
-        }
-        else if(root->right == NULL){
-            return root->left;
-        }
-        TreeNode* rightchild = root->right;
+        if(root->left == NULL) return root->right;
+        if(root->right == NULL) return root->left;
         TreeNode* leftchild = root->left;
-        TreeNode* lastright = leftchild;
-        while(lastright->right != NULL){
-            lastright =lastright->right;
+        TreeNode* rightchild = root->right;
+        TreeNode* lastchild = leftchild;
+        while(lastchild->right != NULL){
+            lastchild = lastchild->right;
         }
-        lastright->right = rightchild;
+        lastchild->right = rightchild;
         return leftchild;
     }
-
-
+  
     TreeNode* deleteNode(TreeNode* root, int key) {
-        TreeNode* curr = root;
+        TreeNode* temp = root;
+        TreeNode* node = root;
         if(root == NULL) return NULL;
         if(root->val == key) return fn(root);
-        while(curr != NULL){
-            if(curr->val > key){
-                if(curr->left != NULL && curr->left->val == key){
-                    curr->left = fn(curr->left);
+        while(temp != NULL){
+            if(temp ->val > key){
+                if(temp->left != NULL && temp->left->val == key){
+                    temp->left = fn(temp->left);
                     break;
                 }
                 else{
-                curr = curr->left;
+                    temp= temp->left;
                 }
             }
-
             else{
-                if(curr->right != NULL && curr->right->val == key){
-                    curr->right = fn(curr->right);
+                if(temp->right != NULL && temp->right->val == key){
+                    temp->right = fn(temp->right);
                     break;
                 }
                 else{
-                curr = curr->right;
+                    temp= temp->right;
                 }
             }
         }
