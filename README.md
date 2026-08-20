@@ -273,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
