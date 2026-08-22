@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0090-subsets-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0198-house-robber) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 ## Memoization
 |  |
