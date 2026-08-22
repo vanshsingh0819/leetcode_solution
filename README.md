@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0213-house-robber-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -249,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -295,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
