@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0344-reverse-string) |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
