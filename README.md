@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1927-sum-game](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [1927-sum-game](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
