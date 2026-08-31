@@ -42,9 +42,7 @@ public:
     return {-1, -1};
 
         int maxDistance = INT_MIN;
-       // if(minDistance != INT_MAX){
-            maxDistance = previousindex - firstindex;
-       // }
+         maxDistance = previousindex - firstindex;
         return {minDistance,maxDistance};
     }
 };
