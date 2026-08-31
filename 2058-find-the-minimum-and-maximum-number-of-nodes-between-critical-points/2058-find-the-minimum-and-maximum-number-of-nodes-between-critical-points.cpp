@@ -37,7 +37,9 @@ public:
             currentnode= currentnode->next;
         }
 
-        if(minDistance == INT_MAX) return {-1,-1};
+       // if(minDistance == INT_MAX) return {-1,-1};
+        if(firstindex == 0 || previousindex == 0 || firstindex==previousindex)
+    return {-1, -1};
 
         int maxDistance = INT_MIN;
         if(minDistance != INT_MAX){
