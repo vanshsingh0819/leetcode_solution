@@ -10,55 +10,39 @@
  */
 class Solution {
 public:
-
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if(head->next->next == NULL) return {-1,-1};
-        ListNode* node = head;
-        int maxDistance = 0;
-        ListNode* firstnode = NULL;
-        ListNode* lastnode = NULL;
-        int minDistance =INT_MAX;
-        ListNode* currentnode = NULL;
-        ListNode* nextnode = NULL;
-        while(node->next->next != NULL){
-            if(firstnode == NULL && node->next->val < node->val && node->next->val < node->next->next->val ||
-                firstnode == NULL && node->next->val > node->val && node->next->val > node->next->next->val){
-                firstnode = node->next;
+        ListNode* previousnode = head;
+        ListNode* currentnode = head->next;
+
+        int currentindex = 1;
+        int firstindex = 0;
+        int previousindex = 0;
+        
+        int minDistance = INT_MAX;
+        while(currentnode->next != NULL){
+            if((currentnode->val > previousnode->val && currentnode->val > currentnode->next->val )||
+            (currentnode->val < previousnode->val && currentnode->val < currentnode->next->val )){
+                if(firstindex == 0){
+                    firstindex = currentindex;
+                    previousindex = currentindex; 
+                }
+                else{    
+                    minDistance = min(minDistance,currentindex - previousindex);
+                    previousindex = currentindex;
+                }
             }
-            if(node->next->val < node->val && node->next->val < node->next->next->val ||
-               node->next->val > node->val && node->next->val > node->next->next->val){
-                lastnode = node->next;
-            }
-            if(currentnode != NULL && node->next->val < node->val && node->next->val < node->next->next->val ||
-               currentnode != NULL && node->next->val > node->val && node->next->val > node->next->next->val){
-                nextnode = node->next;
-            }
-            else if(node->next->val < node->val && node->next->val < node->next->next->val ||
-               node->next->val > node->val && node->next->val > node->next->next->val){
-                currentnode = node->next;
-            }
-            if(currentnode != NULL && nextnode != NULL){
-            int mini = 0;
-            while(currentnode != NULL){
-            if(currentnode == nextnode) break;
-            mini++;
-            currentnode = currentnode->next;
-            }
-            minDistance = min(mini,minDistance);
-            currentnode = nextnode;
-            nextnode = NULL;         
-        }
-        node= node->next;
-        }
-        if(firstnode == NULL || lastnode == NULL || firstnode == lastnode) return{-1,-1};
-        while(firstnode != NULL){
-            if(firstnode == lastnode) break;
-            maxDistance++;
-            firstnode=firstnode->next;
+            currentindex++;
+            previousnode = currentnode;
+            currentnode= currentnode->next;
         }
 
+        if(minDistance == INT_MAX) return {-1,-1};
 
-    
-        return {minDistance, maxDistance};
+        int maxDistance = INT_MIN;
+        if(minDistance != INT_MAX){
+            maxDistance = previousindex - firstindex;
+        }
+        return {minDistance,maxDistance};
     }
 };
