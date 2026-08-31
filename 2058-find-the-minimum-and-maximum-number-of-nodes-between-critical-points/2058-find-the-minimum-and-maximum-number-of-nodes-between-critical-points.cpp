@@ -17,6 +17,9 @@ public:
         int maxDistance = 0;
         ListNode* firstnode = NULL;
         ListNode* lastnode = NULL;
+        int minDistance =INT_MAX;
+        ListNode* currentnode = NULL;
+        ListNode* nextnode = NULL;
         while(node->next->next != NULL){
             if(firstnode == NULL && node->next->val < node->val && node->next->val < node->next->next->val ||
                 firstnode == NULL && node->next->val > node->val && node->next->val > node->next->next->val){
@@ -26,21 +29,6 @@ public:
                node->next->val > node->val && node->next->val > node->next->next->val){
                 lastnode = node->next;
             }
-            node= node->next;
-        }
-        if(firstnode == NULL || lastnode == NULL || firstnode == lastnode) return{-1,-1};
-        while(firstnode != NULL){
-            if(firstnode == lastnode) break;
-            maxDistance++;
-            firstnode=firstnode->next;
-        }
-
-
-        node = head; 
-        int minDistance =INT_MAX;
-        ListNode* currentnode = NULL;
-        ListNode* nextnode = NULL;
-        while(node->next->next != NULL){
             if(currentnode != NULL && node->next->val < node->val && node->next->val < node->next->next->val ||
                currentnode != NULL && node->next->val > node->val && node->next->val > node->next->next->val){
                 nextnode = node->next;
@@ -62,6 +50,15 @@ public:
         }
         node= node->next;
         }
+        if(firstnode == NULL || lastnode == NULL || firstnode == lastnode) return{-1,-1};
+        while(firstnode != NULL){
+            if(firstnode == lastnode) break;
+            maxDistance++;
+            firstnode=firstnode->next;
+        }
+
+
+    
         return {minDistance, maxDistance};
     }
 };
