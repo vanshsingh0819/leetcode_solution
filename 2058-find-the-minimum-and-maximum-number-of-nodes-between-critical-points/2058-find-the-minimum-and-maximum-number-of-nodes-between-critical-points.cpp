@@ -39,9 +39,6 @@ public:
             maxDistance++;
             firstnode=firstnode->next;
         }
-
-
-
         node = head; 
         int minDistance =INT_MAX;
         ListNode* currentnode = NULL;
@@ -55,8 +52,6 @@ public:
                node->next->val > node->val && node->next->val > node->next->next->val){
                 currentnode = node->next;
             }
-
-
             if(currentnode != NULL && nextnode != NULL){
             int mini = 0;
             while(currentnode != NULL){
@@ -68,8 +63,6 @@ public:
             currentnode = nextnode;
             nextnode = NULL;         
         }
-
-
         node= node->next;
         }
         return {minDistance, maxDistance};
