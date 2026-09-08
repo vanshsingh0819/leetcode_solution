@@ -40,10 +40,7 @@ public:
     if(cnt1 > n/3){
         ans.push_back(element1);
     }
-    if(cnt2 > n/3){
-        if(ans.size() > 0 && ans.back() == element2){
-            return ans;
-        }
+    if(cnt2 > n/3 && element1 != element2){
         ans.push_back(element2);
     }
     return ans;
