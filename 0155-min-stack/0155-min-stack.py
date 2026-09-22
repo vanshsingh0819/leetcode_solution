@@ -3,6 +3,7 @@ class MinStack(object):
     def __init__(self):
         self.st = []        # intialised with self, st is list acting like stack,use self.st everywhere   
                             # it means: the st belonging to the current MinStack object
+                            
         self.mini = 0       # intialised with self, self.mini, use self.mini everywhere
     def push(self, value):  #self tells the function which object is currently using the function.
         if not self.st:
