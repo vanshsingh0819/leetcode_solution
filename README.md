@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0344-reverse-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
