@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
