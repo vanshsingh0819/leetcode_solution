@@ -24,13 +24,10 @@ class MinStack(object):
 
     def top(self):
         self.x = self.st[-1]
-        if self.mini <= self.x:
-            return self.x
-        else:
+        if self.mini > self.x:
             return self.mini
-        
-        
-
+        else:
+            return self.x
     def getMin(self):
         return self.mini
         """
