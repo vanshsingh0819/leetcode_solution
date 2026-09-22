@@ -13,11 +13,10 @@ public:
                s[i] == ']' && st.top() =='[')){
                 st.pop();
             }
-            else { /*(st.empty() && 
-                     (s[i] == '(' || s[i] == '{' ||s[i] == '['))*/
+            else {
                 return false;
             }
         }
-    return st.empty();
+        return st.empty();
     }
 };
