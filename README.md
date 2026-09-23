@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0278-first-bad-version) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
