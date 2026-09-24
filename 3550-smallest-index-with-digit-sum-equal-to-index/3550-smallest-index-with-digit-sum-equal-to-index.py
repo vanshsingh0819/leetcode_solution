@@ -6,7 +6,7 @@ class Solution(object):
             number = nums[i]
             while(number > 0):
                 digit = number % 10
-                number = number/10
+                number = number//10
                 sum += digit
             if sum == i:
                 return i
