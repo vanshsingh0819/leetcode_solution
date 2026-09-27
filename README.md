@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
