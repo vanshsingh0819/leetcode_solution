@@ -22,7 +22,7 @@ public:
         return prev;
     }
     bool isPalindrome(ListNode* head) {
-        if(head == NULL) return true;
+       // if(head == NULL) return true;
         if(head->next == NULL) return true;
         if(head ->next ->next == NULL && head->val != head->next->val){
             return false;
