@@ -17,6 +17,7 @@ public:
         if(i == j){
             ans += nums[i];
         }
+        
         return ans;
     }
 };
