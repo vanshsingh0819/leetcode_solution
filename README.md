@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshsingh0819/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
