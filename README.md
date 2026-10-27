@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/vanshsingh0819/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vanshsingh0819/leetcode_solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
